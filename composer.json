@@ -1,0 +1,26 @@
+{
+	"name": "ratrijs/html-builder",
+	"description": "Small and easy-to-use class for HTML generation using object-oriented approach.",
+	"keywords": [
+		"html",
+		"oop",
+		"builder",
+		"generator",
+		"simple"
+	],
+	"homepage": "...",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Rolands Atvars",
+			"email": "rolands.atvars@gmail.com",
+			"homepage": "http://ratvars.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"HTMLBuilder": ""
+		}
+	}
+}
